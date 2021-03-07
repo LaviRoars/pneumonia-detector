@@ -1,4 +1,4 @@
-# pneumonia
+# pneumonia detector
 
 A new Flutter project.
 
